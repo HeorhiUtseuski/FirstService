@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: FirstService
+#  threads:
+#    virtual:
+#      enabled: true
+
+server:
+  port: 9081
+
+logging:
+  level:
+    root: debug
